@@ -71,7 +71,7 @@ body{
 
 .player-current-box{
     background-color:#3110ec ;
-    color: rgb(255, 250, 250);
+    color: rgb(255, 255, 255);
     width: 40%;
     margin: 0 auto;
     padding: 12px;
@@ -82,7 +82,7 @@ body{
     text-transform: uppercase;
     margin-bottom: 10px;
     font-size: 15px;
-    color: rgb(255, 250, 250);
+    color: rgb(255, 255, 255);
 }
 
 .player-current-score{font-size: 30px;}
