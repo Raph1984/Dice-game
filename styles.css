@@ -123,3 +123,10 @@ img{
 .winner{background-color: #e2e2e2;}
 .winner .player-name{font-weight: 300; color: #1b41e9;}
 
+@media screen and (max-width:768px){
+    body{
+        width:100vh;
+        background: none;
+    }
+        
+}
