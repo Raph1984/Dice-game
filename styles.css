@@ -128,5 +128,8 @@ img{
         width:100vh;
         background: none;
     }
+    .player-0,.player-1{
+        float: center;
+    }
         
 }
